@@ -38,7 +38,7 @@ body {
 h2 {
     margin-top: 15px;
     margin-bottom: 20px;
-    font-size: 4em;
+    font-size: 3em;
     color: #e8af13;
     text-decoration: underline;
 }
@@ -58,7 +58,7 @@ p {
 }
 
 .event h3 {
-    font-size: 1.8em;
+    font-size: 2em;
 }
 
 .event a {
